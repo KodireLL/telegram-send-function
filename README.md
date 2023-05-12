@@ -3,5 +3,5 @@
 * Classic [Telegram Bot API](https://core.telegram.org/bots/api)
 
 ## Usage
-Ex. send simple message:
+Ex. send simple message:<br>
 `TelegramSender::sendTelegram('sendMessage', ['chat_id' => '11111111', 'text' => 'Simple Example']);`
